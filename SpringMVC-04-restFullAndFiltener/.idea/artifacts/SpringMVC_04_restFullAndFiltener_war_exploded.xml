@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SpringMVC-04-restFullAndFiltener:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVC_04_restFullAndFiltener_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SpringMVC-04-restFullAndFiltener/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SpringMVC-04-restFullAndFiltener" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

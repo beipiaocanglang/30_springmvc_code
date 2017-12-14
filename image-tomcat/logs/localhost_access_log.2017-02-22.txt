@@ -1,0 +1,4 @@
+127.0.0.1 - - [22/Feb/2017:13:21:01 +0800] "GET / HTTP/1.1" 200 11418
+127.0.0.1 - - [22/Feb/2017:13:21:03 +0800] "GET /struts2-test14-d03-uploadanddownload HTTP/1.1" 302 -
+127.0.0.1 - - [22/Feb/2017:13:21:04 +0800] "GET /struts2-test14-d03-uploadanddownload/ HTTP/1.1" 200 1963
+127.0.0.1 - - [22/Feb/2017:13:21:42 +0800] "POST /struts2-test14-d03-uploadanddownload/upload1.action HTTP/1.1" 200 185
